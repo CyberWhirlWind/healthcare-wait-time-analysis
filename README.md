@@ -12,7 +12,7 @@ This repository provides a comprehensive analysis of healthcare wait times throu
 ### Key Features:
 - Interactive Power BI Dashboards for exploring wait times.
 - Historical Data Files spanning 2018 to 2021.
-- Case-Specific Trends: Outpatient and inpatient data analysis.
+- Case-Specific Trends: Outpatient and inpatient data analysis
 
 ## 📂 Repository Structure
 
